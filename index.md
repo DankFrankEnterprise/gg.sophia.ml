@@ -1,4 +1,4 @@
 # test
 
 <body background=
-"/bk.jpg">
+"/back.jpg">
